@@ -1,22 +1,24 @@
-# Title
-## Short Descriptor
+# Readme Template
+## Better Project Organization
 
 ### Introduction
 
-Brief introduction
+Yo Dawg, I heard you liked well documented projects so I made a better README template and then created a README for that template so you could read a README will you read about READMEs.
 
 ### Dependencies
 
-List of technologies required to run the project
+You're gonna want a keyboard and a monitor to use this.
 
 ### Local Development Setup
 
-Set by set guide to setting up a local development environment
+Bust out your favorite text editor, this is gonna get pretty wild.
 
 ### Configuration Variables
 
-Description and location of any configuration files and variables
+You can place the template in different projects and you'll be inspired to fill it in with different information. It's a really cool feature, I'm very excited about it.
 
 ### Deploy
 
-Set by set guide to deploying the project such that anyone with proper access rights can deploy the latest version to production
+1. Clone the repo and copy the template into another project.
+2. ???
+3. Profit!
